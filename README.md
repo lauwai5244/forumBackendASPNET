@@ -19,5 +19,7 @@
   (1)R 查看文章   
   (2)C 新增文章 
   (3)U 更新文章  
-  (4)D 刪除文章   
+  (4)D 刪除文章  
+  
+  (url)https://vuejs123.azurewebsites.net/#
 
